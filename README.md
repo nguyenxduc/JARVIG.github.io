@@ -1,1 +1,1 @@
-# JARVIG.github.io
+Em xin tự giới thiệu em là Nguyễn Công Đức hiện là sinh viên năm nhất ngành KHMT. Em đến từ Quảng Nam và cấp ba em học tại trường THTP chuyên Nguyễn Bỉnh Khiêm. Em tự thấy mình là người có tư duy tốt và có niềm đam mê lớn với toán học và tin học. Mục tiêu của em là trở thành AI/ML engineer.
